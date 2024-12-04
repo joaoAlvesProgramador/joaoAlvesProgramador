@@ -1,7 +1,7 @@
 ## Olá Eu sou o João Gabriel 👋
 
-- 🔭 Ensino Medio/Tecnico
-- 🔭 Graduando em Direito e Gestão Financeira
+- 🔭 Ensino Médio/Técnico em Informática para Internet (Senac)
+- 🔭 Graduando em Direito(UNIVALI) e Gestão Financeira(UniCV)
 - 🌱 Tive experiencia com JavaScript e ReactJs
 
 ## Lingugens
