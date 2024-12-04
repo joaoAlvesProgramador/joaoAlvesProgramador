@@ -1,7 +1,8 @@
 ## Olá Eu sou o João Gabriel 👋
 
-- 🔭 Atualmente Terminando Ensino Medio/Tecnico
-- 🌱 Estudando JavaScript e ReactJs
+- 🔭 Ensino Medio/Tecnico
+- 🔭 Graduando em Direito e Gestão Financeira
+- 🌱 Tive experiencia com JavaScript e ReactJs
 
 ## Lingugens
 
